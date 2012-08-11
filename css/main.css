@@ -1,0 +1,31 @@
+.showgrid {
+    /* 24x24px grid */
+    background: transparent url(../img/showgrid.gif) 0 0;
+}
+body {
+    /* set base line to 16px/24px sans-serif */
+    font-size: 100%;
+    line-height: 1.5em;
+}
+h1 {
+    font-size: 2em;
+    line-height: 1.0625em;
+    margin: 1.1875em 0 0.75em;
+}
+h2 {
+    font-size: 1.5em;
+    margin: 1em 0;
+}
+h3 {
+    font-size: 1.1875em;
+    margin: 1.26315em 0;
+}
+p, pre {
+    margin: 0 0 1.5em;
+}
+ol, ul {
+    margin: 1.5em 0;
+}
+blockquote {
+    margin: 1.5em;
+}
